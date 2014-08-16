@@ -1,4 +1,4 @@
-Data-Science---Getting-and-Cleaning-Data
+Data-Science_Getting-and-Cleaning-Data
 ========================================
 
-John Hopkins University, Bloomberg School Of Public Health. Coursera.org
+John Hopkins University, Bloomberg School of Public Health. Coursera.org
